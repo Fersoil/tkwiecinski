@@ -1,8 +1,7 @@
 cv:
   name: Tymoteusz Kwieciński
-  label: MSc Student in Computer Science at ETH Zurich
-  summary: >
-    I am interested in AI, interpretability, computer vision, and software development.
+  headline: MSc Student in Computer Science at ETH Zurich
+  location: Zurich, Switzerland
 
   social_networks:
     - network: GitHub
@@ -11,26 +10,24 @@ cv:
       username: tymoteuszkwiecinski
 
   sections:
+    Summary:
+      - I am interested in AI, interpretability, computer vision, and software development.
+
     Education:
       - institution: ETH Zurich
         location: Zurich, Switzerland
         area: Computer Science
-        studyType: M.Sc.
+        degree: M.Sc.
         start_date: 2024
-        end_date: 2026
+        end_date: present
         highlights:
           - Focus areas: AI, interpretability, computer vision, and software development.
 
       - institution: Warsaw University of Technology
         location: Warsaw, Poland
         area: Computer Science
-        studyType: B.Sc.
+        degree: B.Sc.
         start_date: 2020
         end_date: 2024
         highlights:
           - Bachelor's degree in Computer Science.
-
-    Experience: []
-    Publications: []
-    Projects: []
-    Skills: []
