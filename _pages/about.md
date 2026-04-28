@@ -27,9 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This website is being prepared as a concise academic profile.
+Hello there! ;D
 
-I am Tymoteusz Kwieciński, a Computer Science M.Sc. student at ETH Zurich.
-My interests are AI, interpretability, computer vision, and software development.
+I am Tymoteusz Kwieciński, a Computer Science M.Sc. student at ETH Zurich and Research Assistant at ETH AI Center.
 
-I did my bachelor's degree at Warsaw University of Technology.
